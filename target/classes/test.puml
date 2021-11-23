@@ -1,0 +1,27 @@
+@startuml
+' 搜索成本卡
+participant shepherd as fe
+participant ConsoleFoodsbomThriftService as thrift
+
+    fe -> thrift : 根据物品ID查询菜品
+group 参数校验
+        thrift -> validator : 请求参数校验
+        validator -> validator : 请求页需要小于或等于100
+        validator -> validator : 判断替换中是否传入了物品ID
+        validator -> validator : 判断传入的数据应该是成本卡类型
+        validator --> thrift
+    end
+    thrift -> ReadService : queryFoodWithFoodbom
+    ReadService -> Adapter : 通过物品ID查询菜品
+    Adapter --> ReadService
+    ReadService -> Dao : 通过查询过来的菜品skuId查询成本卡关系
+    Dao -> FoodbomRelationMapper : 查询关联关系
+    FoodbomRelationMapper --> Dao
+    Dao --> ReadService
+    ReadService -> Dao : 通过成本卡ID查询成本卡内容
+    Dao --> ReadService
+    ReadService --> thrift
+    thrift --> fe
+
+
+@enduml

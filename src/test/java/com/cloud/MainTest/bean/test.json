@@ -1,0 +1,56 @@
+{
+  "resultCode": 200,
+  "message": "SUCCESS",
+  "data": {
+    "letterList": [
+      {
+        "content": "哦，什么什么？什么是什么诱惑好几好几好几那个那个那个度度度度的侮辱，侮辱侮辱我是你撞你。？隰县你信件你所看到你的呢你-李壮志写",
+        "senderOpenId": "oUGur5GBjDC1B3z-brhlM9rL3Gnc",
+        "id": "39dffea0-1a71-4a78-becb-b38ffa03ea49",
+        "senderPenName": "惆怅的兰花",
+        "stampUrl": "https://z3.ax1x.com/2021/04/20/c7I6ER.png",
+        "recipientPenName": "K",
+        "releaseTime": "2021-05-05T12:12:05.000+00:00"
+      }
+    ],
+    "diaryList": [
+      {
+        "content": "我是一个好孩子，我很开心我是一个好孩子，我很开心我是一个好孩子，我很开心我是一个好孩子，我很开心我是一个好孩子，我很开心我是一个好孩子，我很开心我是一个好孩子，我很开心",
+        "penName": "爷爷在此！",
+        "weather": "多云",
+        "openId": "oUGur5GBjDC1B3z-brhlM9rL3Gnc",
+        "state": "0"
+      },
+      {
+        "content": "    let normal = diaryArr[2] + sorrowArr[2] + complainArr[2];\n    let happy = diaryArr[3] + sorrowArr[3] + complainArr[3];\n\n    // 获取最大值索引\n    let bigestIndex = 0;\n    let bigNum = angry;\n    [normal, down, angry, happy]今天的天气真实不错，可以可以，非常不错！！",
+        "penName": "爷爷在此！",
+        "weather": "多云",
+        "openId": "oUGur5GBjDC1B3z-brhlM9rL3Gnc",
+        "state": "0"
+      },
+      {
+        "content": "<!-- 往年回顾标题 -->\n<view class=\"top-content-box\">\n  <view class=\"top-tit\">上月回顾</view>\n</view>\n<!-- 往年回顾用户数据 -->\n<view class=\"data-container\" style=\"width: {{675 + 'rpx'}};height: {{400 + 'rpx'}};\">\n  <ec-canvas id=\"all_chart\" canvas-id=\"mychart-bar\" ec=\"{{ ec }}\"></ec-canvas>\n</view>我是非常的伤心，的，气死人了！！",
+        "penName": "爷爷再次！！",
+        "weather": "多云",
+        "openId": "oUGur5GBjDC1B3z-brhlM9rL3Gnc",
+        "state": "0"
+      }
+    ],
+    "spittingGroovesList": [
+      {
+        "id": "4204665b-5a90-42de-ac42-ab27d40e6c28",
+        "number": "1",
+        "title": "Have a dream when the when hol",
+        "avatarUrl": "https://thirdwx.qlogo.cn/mmopen/vi_32/FcRibGPkicSKgyic41eZia0oA3thYtexMXWmY1bPwJ53YzGPY5EACSfQYhADz8tTYaeC4XbicsVFS2DZFn9GOMoEURg/132",
+        "penName": "酒醉的蝴蝶"
+      },
+      {
+        "id": "7285b0ec-b263-4b0d-8b5c-638cd8689ef8",
+        "number": "0",
+        "title": "          // 内容不合规\n      ",
+        "avatarUrl": "https://thirdwx.qlogo.cn/mmopen/vi_32/5TYqM7pBXYmky1NZKTnJicNkUglEE70BRUiaLdHOgf61sQsXtLVHJ8S2z5EicOicy2TicG5o6Sc6DbrrQ0bnzIkDIAw/132",
+        "penName": "快乐的小飞侠"
+      }
+    ]
+  }
+}

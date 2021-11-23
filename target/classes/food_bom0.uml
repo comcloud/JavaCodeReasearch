@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>DATABASE</ID>
+  <OriginalElement>fe50ad8f-9343-464b-856b-bde247a75415.TABLE:cep_test_scm_main_data0.food_bom0</OriginalElement>
+  <nodes>
+    <node x="0.0" y="0.0">fe50ad8f-9343-464b-856b-bde247a75415.TABLE:cep_test_scm_main_data0.food_bom0</node>
+  </nodes>
+  <notes />
+  <edges />
+  <settings layout="Hierarchic Group" zoom="1.0" x="106.5" y="192.5" />
+  <SelectedNodes>
+    <node>fe50ad8f-9343-464b-856b-bde247a75415.TABLE:cep_test_scm_main_data0.food_bom0</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Key columns</Category>
+    <Category>Columns</Category>
+    <Category>Virtual foreign keys</Category>
+  </Categories>
+</Diagram>
+

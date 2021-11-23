@@ -1,0 +1,2 @@
+com.cloud.controller.spi.DruidDatasource
+com.cloud.controller.spi.OracleDatasource
